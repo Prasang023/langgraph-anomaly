@@ -1,0 +1,1 @@
+BASE_AGENT_V1 = "base_agent_v1"
