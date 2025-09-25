@@ -1,5 +1,3 @@
-# LangGraph API Server
-
 A FastAPI-based server that provides LangGraph agent execution capabilities with streaming responses.
 
 ## Installation
