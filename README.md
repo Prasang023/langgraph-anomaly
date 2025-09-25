@@ -22,7 +22,6 @@ uvicorn api_server.main:app --host 0.0.0.0 --port 8000 --reload
 
 The server will start on:
 - **Local**: http://localhost:8000
-- **Network**: http://0.0.0.0:8000
 
 ## API Endpoints
 
